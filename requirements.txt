@@ -1,0 +1,7 @@
+PyQt5==5.9.2
+PyInstaller==3.3.1
+Numpy==1.14.0
+matplotlib==2.1.2
+seaborn==0.8.1
+pywt==1.0.6
+scipy==1.0.0
