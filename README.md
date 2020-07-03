@@ -1,4 +1,4 @@
-# Reliability-IITKGP
+# StructuralReliability
 Time Dependent Reliability Calculation
 
 
@@ -12,9 +12,9 @@ Time Dependent Reliability Calculation
 
 1. Clone project from Git
 
-    `git clone https://github.com/anukuljha/Reliability-IITKGP/`
+    `git clone https://github.com/SourangshuGhosh/StructuralReliability/`
 
-2. `cd Reliability-IITKGP`
+2. `cd StructuralReliability`
 
 3. `pip install -r requirements.txt`
 
